@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>dictation</title>
+        <title>SpkDraft</title>
         <item>
-            <title>0.8.0</title>
-            <pubDate>Sat, 22 Aug 2026 05:48:09 +0100</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <title>0.9.0</title>
+            <pubDate>Sat, 22 Aug 2026 06:28:16 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.8.0/dictation-0.8.0.dmg" length="26089994" type="application/octet-stream" sparkle:edSignature="XZVhG8lUjGH93rdDyPv7zkeVjFa7UmbURSBKmjthGoj7/Q/krElDMzJUa6PeskIDrDONntrq/fN20MtZExkdDg=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.9.0/SpkDraft-0.9.0.dmg" length="26080912" type="application/octet-stream" sparkle:edSignature="ZMA5Xxa50Ur6Mh0vUR3hqnKC19R30TjyQe2anIINSrZJNU4yuXuibxWzDRXtsyE8oX/Pibmn4M97Dgy6C0+ODw=="/>
         </item>
     </channel>
 </rss>
