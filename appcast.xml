@@ -3,12 +3,12 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.10.0</title>
-            <pubDate>Sat, 22 Aug 2026 08:44:56 +0100</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+            <title>0.11.0</title>
+            <pubDate>Sat, 22 Aug 2026 09:44:23 +0100</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.10.0/SpkDraft-0.10.0.dmg" length="26117705" type="application/octet-stream" sparkle:edSignature="IkUfr2sJGnlKIeeWtGpjJy7GoDpOXJM9tEwG8gls9jnik9VWpHAnG5W0XH8wLOb3AA4TivP3VqRQmDx/homnCA=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.11.0/SpkDraft-0.11.0.dmg" length="26182268" type="application/octet-stream" sparkle:edSignature="Jq22PfMvPUxEKaz4n/9KuM8hixeB6E3xjqVE4bTJkmJnt0R9y7Pzejy9+0lmvGKxqhoZciBsuAz2lYozAmJABQ=="/>
         </item>
     </channel>
 </rss>
