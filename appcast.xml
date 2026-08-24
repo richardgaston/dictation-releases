@@ -3,16 +3,17 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.15.5</title>
-            <pubDate>Sun, 24 Aug 2026 18:20:00 +0100</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.15.5</sparkle:shortVersionString>
+            <title>0.15.6</title>
+            <pubDate>Sun, 24 Aug 2026 20:10:00 +0100</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.15.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Breathe grows up.</b> The noise bed now swells and recedes with the wave, like surf. A soft bell marks each minute, and the session ends with a fuller bell that rings out over the fading screen before handing you back to your work. Ending early with a key press dissolves gently instead of cutting.</p>
-                <p>Breathe also moves into its own card in the menu, below the dictation actions where it belongs.</p>
+                <p><b>The bells learn the scale.</b> Each minute of a Breathe session rings one step up the pentatonic, and the final bell is the octave coming home — you can hear where you are without counting. They ring longer and a touch louder too.</p>
+                <p><b>"Use my original wording" gains its own shortcut</b> — Ctrl+Option+Z. The panel loses its front-page labels and reads cleaner for it; Settings reorders to use-first.</p>
+                <p><b>Draft writes like writing.</b> No more "gonna" or "yeah" in finished prose. Long, pause-heavy dictations come back mended as one passage instead of fragments, and a stray "#" the engine sometimes coughs up is cleaned away.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.5/SpkDraft-0.15.5.dmg" length="26457968" type="application/octet-stream" sparkle:edSignature="0rZTHUaKi6NvEWmVIDVN/O756ynAB8eOgWpXqtZenOYAMvZ75RrhzzLxomyrTDGuQoTWedmxjCpUmZ5n1BsABg=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.6/SpkDraft-0.15.6.dmg" length="26458947" type="application/octet-stream" sparkle:edSignature="RQxZu0yESUi0MGglWOeTK59XtHUgPduM72OzetqB5Dy5Dec57jnju/+d4mOg7Q8gPs8y2pog9z/I2+Ti/osNCg=="/>
         </item>
     </channel>
 </rss>
