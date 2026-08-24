@@ -3,16 +3,16 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.15.4</title>
-            <pubDate>Sun, 24 Aug 2026 17:05:00 +0100</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.15.4</sparkle:shortVersionString>
+            <title>0.15.5</title>
+            <pubDate>Sun, 24 Aug 2026 18:20:00 +0100</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.15.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Fixes a crash when a Breathe session started.</b> If Breathe closed the app the first time you tried it with headphones, this is the cure — it's worth a second try.</p>
-                <p>The break screen also grew into itself: it <b>fades in gently</b>, the wave is now the app's own mark writ large — same seven bars, same colours as the one that ripples while you dictate — and the background breathes with you.</p>
+                <p><b>Breathe grows up.</b> The noise bed now swells and recedes with the wave, like surf. A soft bell marks each minute, and the session ends with a fuller bell that rings out over the fading screen before handing you back to your work. Ending early with a key press dissolves gently instead of cutting.</p>
+                <p>Breathe also moves into its own card in the menu, below the dictation actions where it belongs.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.4/SpkDraft-0.15.4.dmg" length="26458595" type="application/octet-stream" sparkle:edSignature="7LubfqjE4N4t4liGP1gdze8SQYC5oBBor/DM6Ya7AuT2HKEK3YLir40fCFr1Htd9XXFAO/2mZ73Fy8q2p4ZhAA=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.5/SpkDraft-0.15.5.dmg" length="26457968" type="application/octet-stream" sparkle:edSignature="0rZTHUaKi6NvEWmVIDVN/O756ynAB8eOgWpXqtZenOYAMvZ75RrhzzLxomyrTDGuQoTWedmxjCpUmZ5n1BsABg=="/>
         </item>
     </channel>
 </rss>
