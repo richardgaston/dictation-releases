@@ -3,17 +3,16 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.15.6</title>
-            <pubDate>Sun, 24 Aug 2026 20:10:00 +0100</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.15.6</sparkle:shortVersionString>
+            <title>0.16.0</title>
+            <pubDate>Sun, 24 Aug 2026 23:20:00 +0100</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>The bells learn the scale.</b> Each minute of a Breathe session rings one step up the pentatonic, and the final bell is the octave coming home — you can hear where you are without counting. They ring longer and a touch louder too.</p>
-                <p><b>"Use my original wording" gains its own shortcut</b> — Ctrl+Option+Z. The panel loses its front-page labels and reads cleaner for it; Settings reorders to use-first.</p>
-                <p><b>Draft writes like writing.</b> No more "gonna" or "yeah" in finished prose. Long, pause-heavy dictations come back mended as one passage instead of fragments, and a stray "#" the engine sometimes coughs up is cleaned away.</p>
+                <p><b>Breathe learns new sounds.</b> A preset picker in Settings: Settle is the two-tone sound it launched with; new Resonance paces each breath with soft notes — one to draw in, a lower one to let go — and a gong opens the session and closes it under the final bell. A slider sets the length, three to ten minutes; five stays the default.</p>
+                <p><b>Bluetooth headphones, handled properly.</b> If your Mac is playing through its speakers while your headphones sit connected, or they are stuck in call quality because something is using their microphone, the Breathe row now says exactly what to fix. If they change mode mid-session, the sound carries on where it was instead of going silent.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.6/SpkDraft-0.15.6.dmg" length="26458947" type="application/octet-stream" sparkle:edSignature="RQxZu0yESUi0MGglWOeTK59XtHUgPduM72OzetqB5Dy5Dec57jnju/+d4mOg7Q8gPs8y2pog9z/I2+Ti/osNCg=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.16.0/SpkDraft-0.16.0.dmg" length="26501577" type="application/octet-stream" sparkle:edSignature="+MiOxfPuRFL/9PpjBddDo0NxrnASt7CWg0GOhZxFvb7xIguWC/oXpj1KC/ihubxMUdHsU9E5luuPZgLzjrn2BQ=="/>
         </item>
     </channel>
 </rss>
