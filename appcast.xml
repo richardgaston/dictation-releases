@@ -3,16 +3,17 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.15.0</title>
-            <pubDate>Sun, 24 Aug 2026 11:25:00 +0100</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+            <title>0.15.1</title>
+            <pubDate>Sun, 24 Aug 2026 13:05:00 +0100</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p>This update fixes the bug where every update broke the fn key. macOS will ask you to re-grant Accessibility <b>one last time</b> after installing — the app's panel walks you through it — and from then on the permission should survive updates for good.</p>
-                <p>Also new: Settings opens on a list of every keyboard shortcut, and the panel returns to its front page each time you open it.</p>
+                <p>The menu bar panel now survives a click into another window — it stays put and fades out on its own after a few seconds. Hovering over it holds it open; clicking the icon still closes it instantly.</p>
+                <p>Settings speaks the modes' language — <b>Clean</b> and <b>Enhanced Clean</b> — with clearer explainers in a more readable face. A new <b>Accounting</b> pack ships in the box, and the Coding pack learns to spell Claude Code.</p>
+                <p>If you took 0.15.0, this update should install <b>without touching your Accessibility permission</b> — that's the fix from last time doing its job. If the fn key stops working after this update, tell Richard: that's a bug now, not the routine.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.0/SpkDraft-0.15.0.dmg" length="26366073" type="application/octet-stream" sparkle:edSignature="oAAHip5Nckt6skEmMxB6CNfWR5qD5XJ5+Rlm3bMUnWdLiR4W3BPLdwHxnHY1mgIksO3bsD3085VuvbH9bz+kDA=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.1/SpkDraft-0.15.1.dmg" length="26393623" type="application/octet-stream" sparkle:edSignature="dDu08SwRn6drb42dkUv1SUyu+MAJ5V6TXaFVLLv4G+Yv0RNf5gMluebgJyWmPne0u0zjSlkWysywb5ipIdEBAA=="/>
         </item>
     </channel>
 </rss>
