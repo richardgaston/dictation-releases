@@ -3,16 +3,16 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.16.0</title>
-            <pubDate>Sun, 24 Aug 2026 23:20:00 +0100</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+            <title>0.16.1</title>
+            <pubDate>Sun, 24 Aug 2026 23:55:00 +0100</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Breathe learns new sounds.</b> A preset picker in Settings: Settle is the two-tone sound it launched with; new Resonance paces each breath with soft notes — one to draw in, a lower one to let go — and a gong opens the session and closes it under the final bell. A slider sets the length, three to ten minutes; five stays the default.</p>
-                <p><b>Bluetooth headphones, handled properly.</b> If your Mac is playing through its speakers while your headphones sit connected, or they are stuck in call quality because something is using their microphone, the Breathe row now says exactly what to fix. If they change mode mid-session, the sound carries on where it was instead of going silent.</p>
+                <p><b>The wave moves like water now.</b> The Breathe screen runs at your display's full refresh rate — the old cap could read as faintly stepped on sharp eyes.</p>
+                <p><b>Headphone messages that say the actual fix.</b> "Connect headphones" covers a pair that's powered off; the call-quality message now points at the setting that frees them: give the Mac a different microphone in Sound settings. A just-connected pair also gets a moment to settle before Breathe takes no for an answer.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.16.0/SpkDraft-0.16.0.dmg" length="26501577" type="application/octet-stream" sparkle:edSignature="+MiOxfPuRFL/9PpjBddDo0NxrnASt7CWg0GOhZxFvb7xIguWC/oXpj1KC/ihubxMUdHsU9E5luuPZgLzjrn2BQ=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.16.1/SpkDraft-0.16.1.dmg" length="26502311" type="application/octet-stream" sparkle:edSignature="IIs+Hp9FCPm+UyhDjkcpKrdZT5ojr2Su1zQA5IMRY3kQwjgRUVbPOriAYifkXq4+KVjT248CtWOGIhK4OW2/Bg=="/>
         </item>
     </channel>
 </rss>
