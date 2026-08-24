@@ -8,6 +8,10 @@
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>This update fixes the bug where every update broke the fn key. macOS will ask you to re-grant Accessibility <b>one last time</b> after installing — the app's panel walks you through it — and from then on the permission should survive updates for good.</p>
+                <p>Also new: Settings opens on a list of every keyboard shortcut, and the panel returns to its front page each time you open it.</p>
+            ]]></description>
             <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.0/SpkDraft-0.15.0.dmg" length="26366073" type="application/octet-stream" sparkle:edSignature="oAAHip5Nckt6skEmMxB6CNfWR5qD5XJ5+Rlm3bMUnWdLiR4W3BPLdwHxnHY1mgIksO3bsD3085VuvbH9bz+kDA=="/>
         </item>
     </channel>
