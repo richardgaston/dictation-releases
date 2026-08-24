@@ -3,16 +3,16 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.15.3</title>
-            <pubDate>Sun, 24 Aug 2026 15:30:00 +0100</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.15.3</sparkle:shortVersionString>
+            <title>0.15.4</title>
+            <pubDate>Sun, 24 Aug 2026 17:05:00 +0100</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.15.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Breathe sounds much gentler.</b> The sound is rebuilt on the recipe from the research: a soft bed of pink noise with the low pulse sitting inside it, held steady — no more bare tones. And clicking Breathe without headphones now <b>says so on the button itself</b>, instead of appearing to do nothing.</p>
-                <p>The <b>Accounting pack</b> now knows the software an accountancy practice names all day — QuickBooks Online, Sage 50, KashFlow, FreshBooks, BrightPay, Taxfiler and friends — and when you say <b>Xero</b> and the machine writes "0", it's corrected.</p>
+                <p><b>Fixes a crash when a Breathe session started.</b> If Breathe closed the app the first time you tried it with headphones, this is the cure — it's worth a second try.</p>
+                <p>The break screen also grew into itself: it <b>fades in gently</b>, the wave is now the app's own mark writ large — same seven bars, same colours as the one that ripples while you dictate — and the background breathes with you.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.3/SpkDraft-0.15.3.dmg" length="26450197" type="application/octet-stream" sparkle:edSignature="JyzsRV/MSURP4O1IKe+Lg5CXByQlplyITkl8wkgss8xC4aLu/K5mmaDrcPtjyoks4aDtJBrhHVTJCR1V9cf6AQ=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.15.4/SpkDraft-0.15.4.dmg" length="26458595" type="application/octet-stream" sparkle:edSignature="7LubfqjE4N4t4liGP1gdze8SQYC5oBBor/DM6Ya7AuT2HKEK3YLir40fCFr1Htd9XXFAO/2mZ73Fy8q2p4ZhAA=="/>
         </item>
     </channel>
 </rss>
