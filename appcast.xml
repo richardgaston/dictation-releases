@@ -3,17 +3,18 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.17.0</title>
-            <pubDate>Wed, 26 Aug 2026 07:00:00 +0100</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+            <title>0.17.1</title>
+            <pubDate>Wed, 26 Aug 2026 22:08:48 +0100</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Flow, in beta.</b> A steady wash of surf with a gentle beat under your work — headphones on. It runs until you switch it off, and it steps back a little while you dictate so you can hear yourself. Its switch sits next to Breathe on the front page.</p>
-                <p><b>Prompt and Draft never hand back raw text.</b> When a rewrite would have changed your meaning and is refused, you now get Clean's pass instead of the bare transcript — and a short dictation can no longer be cut down to a single word.</p>
-                <p><b>Settings are one line each.</b> Every setting is a single line with its switch; click the line to open its explanation and controls, one at a time. Nothing to scroll.</p>
+                <p><b>Prompt, rebuilt around how it's actually used.</b> Messages to an assistant keep your first person, your hedges and your questions; pauses are mended; a report never comes back as an order. When a rewrite would change your meaning, you get Clean's pass instead of the bare transcript.</p>
+                <p><b>Flow's surf rolls.</b> A slow, irregular swell under the wash — never a breathing rhythm; the beat holds steady.</p>
+                <p><b>Sounds have versions.</b> Breathe and Flow each show a sound version and a code in Settings, so you can tell exactly which sound a build carries.</p>
+                <p>Also: "one point nought" comes out as 1.0, and "binaural" spells itself.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.0/SpkDraft-0.17.0.dmg" length="26673012" type="application/octet-stream" sparkle:edSignature="kaG0PSrtdIhFm2a2L3E6GK2ASNK81+Tphg4HQ5dDjC4D6TzIzhXEFJbo8TR9g8ky9PVnaiACsQdTq1eRMer8BQ=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.1/SpkDraft-0.17.1.dmg" length="26640631" type="application/octet-stream" sparkle:edSignature="+ixh3rb0KPWSUhCTBBoHf1yT/gKrUBIG+17snZQ638PxvNG0bV7Gv+ebqnZgYXMUy0/9dRZVw8ZeeydgcFpbDg=="/>
         </item>
     </channel>
 </rss>
