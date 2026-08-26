@@ -3,16 +3,17 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.16.3</title>
-            <pubDate>Tue, 25 Aug 2026 17:10:00 +0100</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>0.16.3</sparkle:shortVersionString>
+            <title>0.17.0</title>
+            <pubDate>Wed, 26 Aug 2026 07:00:00 +0100</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Draft keeps your words pointed the way you said them.</b> An instruction stays an instruction, a question stays a question, and Draft never answers or invents a figure on your behalf — it writes for the reader, it doesn't reply as the reader.</p>
-                <p><b>Spoken shorthand is written out reliably.</b> "gonna" and "wanna" now become "going to" and "want to" every time, instead of occasionally slipping through. Clean gets the same fix.</p>
+                <p><b>Flow, in beta.</b> A steady wash of surf with a gentle beat under your work — headphones on. It runs until you switch it off, and it steps back a little while you dictate so you can hear yourself. Its switch sits next to Breathe on the front page.</p>
+                <p><b>Prompt and Draft never hand back raw text.</b> When a rewrite would have changed your meaning and is refused, you now get Clean's pass instead of the bare transcript — and a short dictation can no longer be cut down to a single word.</p>
+                <p><b>Settings are one line each.</b> Every setting is a single line with its switch; click the line to open its explanation and controls, one at a time. Nothing to scroll.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.16.3/SpkDraft-0.16.3.dmg" length="26612722" type="application/octet-stream" sparkle:edSignature="pKXoNtbpygPj6nlIbyStkxuvnV+6QKhxY21GZ24m7uWmHPwS8a84kBIDFAc2DtHnoKIR9rAFLNPNIgGw/cINCg=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.0/SpkDraft-0.17.0.dmg" length="26673012" type="application/octet-stream" sparkle:edSignature="kaG0PSrtdIhFm2a2L3E6GK2ASNK81+Tphg4HQ5dDjC4D6TzIzhXEFJbo8TR9g8ky9PVnaiACsQdTq1eRMer8BQ=="/>
         </item>
     </channel>
 </rss>
