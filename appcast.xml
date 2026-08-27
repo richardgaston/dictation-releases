@@ -3,16 +3,16 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.17.3</title>
-            <pubDate>Thu, 27 Aug 2026 12:21:48 +0100</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>0.17.3</sparkle:shortVersionString>
+            <title>0.17.4</title>
+            <pubDate>Thu, 27 Aug 2026 13:15:47 +0100</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.17.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>A licence is valid through the day it names</b> and stops at the midnight that ends it, in your own time zone — and the app now notices while it is running, not at the next launch. Past that moment the whole app pauses, says why in the panel with the date, and puts the way back one click away. A perpetual licence keeps running as always and simply stops taking updates released after its date.</p>
-                <p>Also: switching modes from the panel is now recorded in the log, like the Control tap.</p>
+                <p><b>Prompt works from your words, not the engine's punctuation.</b> The speech engine ends a sentence wherever you pause, and Prompt had been tidying inside those false breaks. It now sees the bare words and punctuates from the sense — still checked against what you actually said, so a question it fails to hear is left alone rather than lost.</p>
+                <p><b>"Kept as said."</b> When a rewrite is set aside for changing your meaning, the overlay now says so, instead of leaving you to wonder whether anything happened.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.3/SpkDraft-0.17.3.dmg" length="26709682" type="application/octet-stream" sparkle:edSignature="f+TQWSvkn8uc0/s1ddnTjI1M4Mor/uUz3Gx/7pnCEjll1KwII85U/V/aqJeclIAA+vV0mRfr1OTuq+c94dgsBg=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.4/SpkDraft-0.17.4.dmg" length="26710769" type="application/octet-stream" sparkle:edSignature="asNHPKeUrYziF8BhEUyz0VCjUkz5HmJmppxZvc7n6JbPM4gXgf6egy09lURhms5HZfg1ewJgTdr69tqKK5WqBA=="/>
         </item>
     </channel>
 </rss>
