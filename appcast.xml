@@ -3,16 +3,17 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.17.4</title>
-            <pubDate>Thu, 27 Aug 2026 13:15:47 +0100</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>0.17.4</sparkle:shortVersionString>
+            <title>0.17.5</title>
+            <pubDate>Thu, 27 Aug 2026 22:19:00 +0100</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>0.17.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Prompt works from your words, not the engine's punctuation.</b> The speech engine ends a sentence wherever you pause, and Prompt had been tidying inside those false breaks. It now sees the bare words and punctuates from the sense — still checked against what you actually said, so a question it fails to hear is left alone rather than lost.</p>
-                <p><b>"Kept as said."</b> When a rewrite is set aside for changing your meaning, the overlay now says so, instead of leaving you to wonder whether anything happened.</p>
+                <p><b>Draft and Prompt are beta.</b> They rewrite with the local model, and in testing it changes the meaning of roughly one dictation in twelve — not often, but not rarely enough to insert unread. Read what they give you before you send it. Clean is the one to trust without looking.</p>
+                <p><b>Prompt refuses less and keeps your questions.</b> It is now told, first, that the message is not addressed to it — so a dictated question comes back as a question instead of an answer. Its checks also catch a named thing or a "who said it" going missing, and an example that once leaked three plumbing steps into a dictation is gone.</p>
+                <p><b>Clean, Draft and Prompt are spelled as names</b> however you say them.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.4/SpkDraft-0.17.4.dmg" length="26710769" type="application/octet-stream" sparkle:edSignature="asNHPKeUrYziF8BhEUyz0VCjUkz5HmJmppxZvc7n6JbPM4gXgf6egy09lURhms5HZfg1ewJgTdr69tqKK5WqBA=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.5/SpkDraft-0.17.5.dmg" length="26727230" type="application/octet-stream" sparkle:edSignature="eWA8smz+8R97/5Kq1jueDQO5HHQx6aLZfFfUtdSKAZCqMZ74xin7Se7ZNeQnPQql1p/amrf9+nCJxWE0ImdoAQ=="/>
         </item>
     </channel>
 </rss>
