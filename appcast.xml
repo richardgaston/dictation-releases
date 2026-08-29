@@ -3,20 +3,18 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.17.8</title>
-            <pubDate>Sat, 29 Aug 2026 12:03:00 +0100</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>0.17.8</sparkle:shortVersionString>
+            <title>0.17.9</title>
+            <pubDate>Sat, 29 Aug 2026 12:21:00 +0100</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.17.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Your Mac's own microphone.</b> The app now dictates through the Mac's built-in microphone whatever the system input is set to — a plugged-in headset or a headphone cable's remote no longer takes over without you knowing. Apple tunes that microphone for speech; it's the same on every MacBook; and it's never a Bluetooth headset's hands-free profile.</p>
-                <p><b>See which mic, and how quietly you can speak.</b> Settings has a Microphone row with the mic's name on the line. Open it and a level bar follows your voice, with a mark at the quiet line. A dictation under that line gets a one-line hint afterwards: closer to the mic, or raise the input level.</p>
-                <p><b>Your sayings stay as you said them.</b> "At the end of the day" no longer comes back as "by the end of the day" — fifty-eight common English sayings are kept exactly as spoken.</p>
-                <p>Also: the app pack spells Wispr Flow, and the minutes on every row line up.</p>
-                <p><b>Missed a release?</b> 0.17.7 added a Web Design pack and taught the Coding pack JetBrains. 0.17.6 gave Flow an hour, took Breathe and Flow out of beta, added Control+Option+Backspace to delete what you just said, and made Redraft work after a quiet spell. 0.17.5 marked Draft and Prompt as beta and taught Prompt to keep your questions as questions. Every release, in order: github.com/richardgaston/dictation-releases/releases.</p>
+                <p><b>Redraft what you just said.</b> Press Control+Option+R with nothing selected and your last dictation is rewritten in Draft, right where it landed — the lead-in and the stutters gone, your meaning kept. It works in any text field, a terminal included, and Control+Option+Z puts your own words back. With text selected, Redraft works through the selection as before.</p>
+                <p><b>Fewer rewrites kept as-is.</b> The check that judges whether a rewrite lost too much now measures against what you actually said, not your "so basically" and your repeats — so the sentence you meant comes back instead of the one you stumbled through.</p>
+                <p><b>Missed a release?</b> 0.17.8 made the app dictate through your Mac's own microphone, added a Microphone row in Settings with a live level bar, and keeps your sayings as you said them. 0.17.7 added a Web Design pack. 0.17.6 gave Flow an hour, took Breathe and Flow out of beta, added Control+Option+Backspace to delete what you just said, and made Redraft work after a quiet spell. Every release, in order: github.com/richardgaston/dictation-releases/releases.</p>
             ]]></description>
             <sparkle:fullReleaseNotesLink>https://github.com/richardgaston/dictation-releases/releases</sparkle:fullReleaseNotesLink>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.8/SpkDraft-0.17.8.dmg" length="26826121" type="application/octet-stream" sparkle:edSignature="xjYtyt6qKjWKM6t7awPosfVL6/53zaOu6ualhiZgtMQRr82KhfM/hZjhFvh+aFJRt2/6Ex57zexAu13f5viMAw=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.9/SpkDraft-0.17.9.dmg" length="26831232" type="application/octet-stream" sparkle:edSignature="1Pg8/nt5HTalQ0QqRJpqAVkwn3mxAXMjUuH43NhL4qHLjREEbai5+UGeIOnVSAuZo0JuHYXMkKMJaH1F8rIEAw=="/>
         </item>
     </channel>
 </rss>
