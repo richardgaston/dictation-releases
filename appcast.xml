@@ -3,17 +3,18 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.17.5</title>
-            <pubDate>Thu, 27 Aug 2026 22:19:00 +0100</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>0.17.5</sparkle:shortVersionString>
+            <title>0.17.6</title>
+            <pubDate>Sat, 29 Aug 2026 07:36:00 +0100</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.17.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Draft and Prompt are beta.</b> They rewrite with the local model, and in testing it changes the meaning of roughly one dictation in twelve — not often, but not rarely enough to insert unread. Read what they give you before you send it. Clean is the one to trust without looking.</p>
-                <p><b>Prompt refuses less and keeps your questions.</b> It is now told, first, that the message is not addressed to it — so a dictated question comes back as a question instead of an answer. Its checks also catch a named thing or a "who said it" going missing, and an example that once leaked three plumbing steps into a dictation is gone.</p>
-                <p><b>Clean, Draft and Prompt are spelled as names</b> however you say them.</p>
+                <p><b>Flow runs for an hour.</b> Its row is now a button like Breathe's: click to start, watch the minutes count down, click again to stop early. The hour ends with a fade. Breathe and Flow are both out of beta, and each one's settings row now has "Read the research" — what the sound does and the studies behind it.</p>
+                <p><b>Control+Option+Backspace deletes what you just said</b> — the whole insertion, in one press. And the key you press to cancel a dictation no longer types into your document.</p>
+                <p><b>Redraft works after a quiet spell.</b> It loads the model itself instead of declining, and it keeps the shorter rewrites it used to throw away — losing the lead-in and the stutters is the point.</p>
+                <p><b>Fixed:</b> with the Coding pack loaded, a spoken "C" came out as "C#++".</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.5/SpkDraft-0.17.5.dmg" length="26727230" type="application/octet-stream" sparkle:edSignature="eWA8smz+8R97/5Kq1jueDQO5HHQx6aLZfFfUtdSKAZCqMZ74xin7Se7ZNeQnPQql1p/amrf9+nCJxWE0ImdoAQ=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.6/SpkDraft-0.17.6.dmg" length="26766353" type="application/octet-stream" sparkle:edSignature="eISRF/QrgLqFgoaRwgOq0hmqTa82IJgT/4XgtRtqljHG8zIpdPLla6P+dHGObdmftkZ/7vxqyRpNVmOAXhKMBw=="/>
         </item>
     </channel>
 </rss>
