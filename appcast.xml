@@ -3,18 +3,16 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.17.6</title>
-            <pubDate>Sat, 29 Aug 2026 07:36:00 +0100</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>0.17.6</sparkle:shortVersionString>
+            <title>0.17.7</title>
+            <pubDate>Sat, 29 Aug 2026 10:18:00 +0100</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>0.17.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Flow runs for an hour.</b> Its row is now a button like Breathe's: click to start, watch the minutes count down, click again to stop early. The hour ends with a fade. Breathe and Flow are both out of beta, and each one's settings row now has "Read the research" — what the sound does and the studies behind it.</p>
-                <p><b>Control+Option+Backspace deletes what you just said</b> — the whole insertion, in one press. And the key you press to cancel a dictation no longer types into your document.</p>
-                <p><b>Redraft works after a quiet spell.</b> It loads the model itself instead of declining, and it keeps the shorter rewrites it used to throw away — losing the lead-in and the stutters is the point.</p>
-                <p><b>Fixed:</b> with the Coding pack loaded, a spoken "C" came out as "C#++".</p>
+                <p><b>A Web Design pack.</b> Layout and typography, components, the tools and platforms, performance, SEO and accessibility — so "flex box", "wire frame", "web flow" and "four oh four" come out as the trade writes them: flexbox, wireframe, Webflow, 404. Like every pack, it's a plain JSON file you can edit.</p>
+                <p><b>The Coding pack learns JetBrains</b>, and "I D E" spelled out closes up to IDE.</p>
             ]]></description>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.6/SpkDraft-0.17.6.dmg" length="26766353" type="application/octet-stream" sparkle:edSignature="eISRF/QrgLqFgoaRwgOq0hmqTa82IJgT/4XgtRtqljHG8zIpdPLla6P+dHGObdmftkZ/7vxqyRpNVmOAXhKMBw=="/>
+            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.7/SpkDraft-0.17.7.dmg" length="26773923" type="application/octet-stream" sparkle:edSignature="xziwslQ6hnvE7WKV7BcqVg1RGEhPlNMR3V4EC2WwB2IxuCyNHarP2ljNX/dkt4FE54GOTJAbRr/Uk8YoygtBCA=="/>
         </item>
     </channel>
 </rss>
