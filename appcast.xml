@@ -3,18 +3,17 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.17.9</title>
-            <pubDate>Sat, 29 Aug 2026 12:21:00 +0100</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>0.17.9</sparkle:shortVersionString>
+            <title>0.17.10</title>
+            <pubDate>Sun, 30 Aug 2026 14:14:00 +0100</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.17.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Redraft what you just said.</b> Press Control+Option+R with nothing selected and your last dictation is rewritten in Draft, right where it landed — the lead-in and the stutters gone, your meaning kept. It works in any text field, a terminal included, and Control+Option+Z puts your own words back. With text selected, Redraft works through the selection as before.</p>
-                <p><b>Fewer rewrites kept as-is.</b> The check that judges whether a rewrite lost too much now measures against what you actually said, not your "so basically" and your repeats — so the sentence you meant comes back instead of the one you stumbled through.</p>
-                <p><b>Missed a release?</b> 0.17.8 made the app dictate through your Mac's own microphone, added a Microphone row in Settings with a live level bar, and keeps your sayings as you said them. 0.17.7 added a Web Design pack. 0.17.6 gave Flow an hour, took Breathe and Flow out of beta, added Control+Option+Backspace to delete what you just said, and made Redraft work after a quiet spell. Every release, in order: github.com/richardgaston/dictation-releases/releases.</p>
+                <p><b>Switches that belong together.</b> A switch that is off in Settings now sits in the same cyan-to-pink ramp as the ones that are on, with the knob parked on the left, so the one row you have switched off no longer stands out as a black bar among its neighbours. A switch that is on carries a faint glow.</p>
+                <p><b>Missed a release?</b> 0.17.9 added Redraft what you just said: Control+Option+R with nothing selected rewrites your last dictation in Draft, right where it landed, and Control+Option+Z puts your own words back. 0.17.8 made the app dictate through your Mac's own microphone and added a Microphone row in Settings with a live level bar. 0.17.7 added a Web Design pack. Every release, in order: github.com/romeo-golf-software/dictation-releases/releases.</p>
             ]]></description>
-            <sparkle:fullReleaseNotesLink>https://github.com/richardgaston/dictation-releases/releases</sparkle:fullReleaseNotesLink>
-            <enclosure url="https://github.com/richardgaston/dictation-releases/releases/download/v0.17.9/SpkDraft-0.17.9.dmg" length="26831232" type="application/octet-stream" sparkle:edSignature="1Pg8/nt5HTalQ0QqRJpqAVkwn3mxAXMjUuH43NhL4qHLjREEbai5+UGeIOnVSAuZo0JuHYXMkKMJaH1F8rIEAw=="/>
+            <sparkle:fullReleaseNotesLink>https://github.com/romeo-golf-software/dictation-releases/releases</sparkle:fullReleaseNotesLink>
+            <enclosure url="https://github.com/romeo-golf-software/dictation-releases/releases/download/v0.17.10/SpkDraft-0.17.10.dmg" length="26828743" type="application/octet-stream" sparkle:edSignature="Cf38KMTO/Pha9Ips2UmqGJiMj5VtWbTtXR8aNhWqBlFcKpoqCfdDTlzZhwS8W6SkObO5kEBD8Uby++3IbVWuBg=="/>
         </item>
     </channel>
 </rss>
