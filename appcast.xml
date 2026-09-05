@@ -3,17 +3,18 @@
     <channel>
         <title>SpkDraft</title>
         <item>
-            <title>0.17.10</title>
-            <pubDate>Sun, 30 Aug 2026 14:14:00 +0100</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>0.17.10</sparkle:shortVersionString>
+            <title>0.17.11</title>
+            <pubDate>Fri, 05 Sep 2026 11:49:00 +0100</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.17.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p><b>Switches that belong together.</b> A switch that is off in Settings now sits in the same cyan-to-pink ramp as the ones that are on, with the knob parked on the left, so the one row you have switched off no longer stands out as a black bar among its neighbours. A switch that is on carries a faint glow.</p>
-                <p><b>Missed a release?</b> 0.17.9 added Redraft what you just said: Control+Option+R with nothing selected rewrites your last dictation in Draft, right where it landed, and Control+Option+Z puts your own words back. 0.17.8 made the app dictate through your Mac's own microphone and added a Microphone row in Settings with a live level bar. 0.17.7 added a Web Design pack. Every release, in order: github.com/romeo-golf-software/dictation-releases/releases.</p>
+                <p><b>Clean keeps more of its polish.</b> The guard that refuses any word you didn't say was also refusing your own words in different clothes: say "three terms" and the transcriber writes "3 terms", so when the cleanup wrote the word back it looked invented and the whole polish was thrown away. Numbers you spoke, contractions of words you said side by side ("I would" as "I'd") and ordinary tense shifts now count as your words. Anything actually invented is still refused — in a week of live use that included a made-up "gift card" and a corrupted "scammed", both correctly kept out.</p>
+                <p><b>Bigger dictionaries.</b> The Landlord pack now knows OpenRent, Inventory Hive, Octopus Energy, Screwfix and skirting board, and fixes their split or lowercase spellings; the Business pack adds giffgaff, which also stops "gift gaff" appearing in your text.</p>
+                <p><b>Missed a release?</b> 0.17.10 drew the off switches in Settings into the same cyan-to-pink ramp as the on ones. 0.17.9 added Redraft what you just said: Control+Option+R with nothing selected rewrites your last dictation in Draft, right where it landed, and Control+Option+Z puts your own words back. 0.17.8 made the app dictate through your Mac's own microphone and added a Microphone row in Settings with a live level bar. Every release, in order: github.com/romeo-golf-software/dictation-releases/releases.</p>
             ]]></description>
             <sparkle:fullReleaseNotesLink>https://github.com/romeo-golf-software/dictation-releases/releases</sparkle:fullReleaseNotesLink>
-            <enclosure url="https://github.com/romeo-golf-software/dictation-releases/releases/download/v0.17.10/SpkDraft-0.17.10.dmg" length="26828743" type="application/octet-stream" sparkle:edSignature="Cf38KMTO/Pha9Ips2UmqGJiMj5VtWbTtXR8aNhWqBlFcKpoqCfdDTlzZhwS8W6SkObO5kEBD8Uby++3IbVWuBg=="/>
+            <enclosure url="https://github.com/romeo-golf-software/dictation-releases/releases/download/v0.17.11/SpkDraft-0.17.11.dmg" length="26841126" type="application/octet-stream" sparkle:edSignature="XdEZmlKdFIVbwH4d5aZiUaxZFd8seq9S1ttsOdO6PHS1aPGtbLwJzh2FR3Sg6w5rHLCGJWw9KpHOJdx4FSF/Dg=="/>
         </item>
     </channel>
 </rss>
